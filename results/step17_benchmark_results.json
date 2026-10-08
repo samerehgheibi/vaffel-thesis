@@ -1,0 +1,78 @@
+{
+  "test1_single_field": {
+    "description": "avg wind_speed_100m at one grid cell, 2013-2023",
+    "raw_parquet": {
+      "label": "single-field / raw Parquet",
+      "runs": [
+        0.02982750000228407,
+        0.019395699993765447,
+        0.023106699998606928
+      ],
+      "min": 0.019395699993765447,
+      "mean": 0.02410996666488548,
+      "result": [
+        5.382298356982575
+      ]
+    },
+    "structured_table": {
+      "label": "single-field / structured table",
+      "runs": [
+        0.006079200000385754,
+        0.002270499993755948,
+        0.002378199998929631
+      ],
+      "min": 0.002270499993755948,
+      "mean": 0.003575966664357111,
+      "result": [
+        5.3822983569826
+      ]
+    },
+    "one_time_load_cost_seconds": 8.723793799996201
+  },
+  "test2_join": {
+    "description": "wind time series for one tower (node_id=3459946479)",
+    "join_at_query_time_raw_parquet": {
+      "label": "join / raw Parquet",
+      "runs": [
+        0.07623060000332771,
+        0.05807049999566516,
+        0.04937700000300538
+      ],
+      "min": 0.04937700000300538,
+      "mean": 0.06122603333399942,
+      "result": [
+        96408,
+        2
+      ]
+    },
+    "prejoined_raw_parquet": {
+      "label": "join avoided / pre-joined Parquet",
+      "runs": [
+        0.0723435000036261,
+        0.06815610000194283,
+        0.06510910000361037
+      ],
+      "min": 0.06510910000361037,
+      "mean": 0.0685362333363931,
+      "result": [
+        289224,
+        2
+      ]
+    },
+    "prejoined_structured_table": {
+      "label": "join avoided / structured table",
+      "runs": [
+        0.11494310000125552,
+        0.03483000000414904,
+        0.03137179999612272
+      ],
+      "min": 0.03137179999612272,
+      "mean": 0.06038163333384242,
+      "result": [
+        289224,
+        2
+      ]
+    },
+    "one_time_load_cost_seconds": 81.88340790000075
+  }
+}

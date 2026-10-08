@@ -1,0 +1,11 @@
+numpy>=2.1
+pandas>=2.2
+scipy>=1.15
+matplotlib>=3.10
+duckdb>=1.4
+pyarrow>=19
+requests>=2.32
+SALib>=1.5
+folium>=0.20
+streamlit>=1.45
+plotly>=5.24

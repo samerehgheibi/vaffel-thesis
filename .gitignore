@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.vscode/
+# large inputs, recreated by STEP1 and STEP2
+data/*.parquet
+data/merged_*
+results/*.duckdb
+results/*.parquet
+results/*_cache*.json
+results/sicily_outline.json

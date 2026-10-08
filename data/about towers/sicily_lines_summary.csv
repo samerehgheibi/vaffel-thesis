@@ -1,0 +1,120 @@
+id,name,ref,start_station,end_station,length_km,towers,circuits,cables,voltage_kV
+way/56984364,,22.239;22.242,,,16.443051,38,2,6,220
+way/57384504,Ragusa-Polimeri Europa,22.233,Ragusa,Polimeri Europa,5.883651,15,1,3,220
+way/57400878,Melilli-Ragusa/2,22.218,Melilli,Ragusa/2,0.091417,2,1,3,220
+way/57400898,Melilli-Ragusa/1,22.217,Melilli,Ragusa/1,0.09168,2,1,3,220
+way/57400904,Priolo-PC Isab,21.340,Priolo,PC Isab,0.226185,3,1,3,380
+way/57403743,,22.248;22.249,,,26.37264,62,2,6,220
+way/57736539,,22.226,,,0.053243,3,1,3,220
+way/158802524,Paternò-Chiaramonte Gulfi,21.339,Paternò,Chiaramonte Gulfi,37.276259,82,1,3,380
+way/158853500,Misterbianco-Melilli,22.215,Misterbianco,Melilli,0.080778,2,1,3,220
+way/159081993,Sorgente-Corriolo,22.231,Sorgente,Corriolo,0.07302,2,1,3,220
+way/159113596,Corriolo - Caracoli/Sorgente,22.209;22.210,Corriolo,Caracoli/Sorgente,145.335582,282,2,6,220
+way/159158468,Melilli-Ragusa/2,22.218,Melilli,Ragusa/2,0.056566,2,1,3,220
+way/159158470,Melilli-Ragusa/1,22.217,Melilli,Ragusa/1,0.060674,2,1,3,220
+way/159158471,Misterbianco-Melilli/1,22.215,Misterbianco,Melilli/1,0.126832,2,1,3,220
+way/159158472,Melilli-Anapo/2,22.235,Melilli,Anapo/2,3.37421,13,1,3,220
+way/159158474,Melilli-Anapo/1,22.234,Melilli,Anapo/1,3.169378,12,1,3,220
+way/159196537,,22.222;22.223,,,25.76794,61,2,6,220
+way/186284338,Melilli-Priolo/gr. 2,22.228,Melilli,Priolo/gr. 2,5.381344,20,1,3,220
+way/188459869,Misterbianco-Melilli,22.216,Misterbianco,Melilli,0.065448,2,1,3,220
+way/191811504,Sorgente-Misterbianco,22.207;22.208,Sorgente,Misterbianco,86.853152,194,2,6,220
+way/191811518,Sorgente-Caracoli,22.209,Sorgente,Caracoli,0.084384,2,1,3,220
+way/191811525,,22.213;22.214,,,1.381047,4,2,6,220
+way/191811526,Corriolo/Caracoli - Sorgente,22.209;22.231,Corriolo/Caracoli,Sorgente,0.897735,4,2,6,220
+way/191960147,Corriolo-Caracoli,22.210,Corriolo,Caracoli,0.025562,2,1,3,220
+way/338847619,,22.224;22.225,,,38.88177,89,2,6,220
+way/338850179,Ciminna-Partinico,22.251,Ciminna,Partinico,0.126414,2,1,3,220
+way/338850183,,22.250;22.251,,,49.138805,106,2,6,220
+way/338852154,Partanna-Partinico,22.225,Partanna,Partinico,0.105907,2,1,3,220
+way/338853925,Favara-Cattolica Eraclea,22.240,Favara,Cattolica Eraclea,0.055237,2,1,3,220
+way/338853931,Chiaramonte Gulfi-Favara,22.245,Chiaramonte Gulfi,Favara,0.069045,2,1,3,220
+way/338856348,,22.245;22.246,,,103.797568,201,2,6,220
+way/338856354,Chiaramonte Gulfi-Favara,22.245,Chiaramonte Gulfi,Favara,0.058777,2,1,3,220
+way/338856358,Chiaramonte Gulfi-Ragusa/1-2,22.243;22.244,Chiaramonte Gulfi,2,22.762499,52,2,6,220
+way/338856365,Chiaramonte Gulfi-Ragusa/2,22.244,Chiaramonte Gulfi,Ragusa/2,0.034698,2,1,3,220
+way/338900786,Bellolampo-Partinico,22.222,Bellolampo,Partinico,0.092063,2,1,3,220
+way/338900793,,22.211;22.212,,,50.682208,95,2,6,220
+way/338900797,Bellolampo-Caracoli,22.212,Bellolampo,Caracoli,0.033903,2,1,3,220
+way/338901264,Corriolo-Caracoli,22.209,Corriolo,Caracoli,0.106883,2,1,3,220
+way/338901273,Bellolampo-Caracoli,22.212,Bellolampo,Caracoli,0.14384,2,1,3,220
+way/338901275,Termini Imerese Centrale-Caracoli,22.226,Termini Imerese Centrale,Caracoli,0.16209,3,1,3,220
+way/338901278,Ciminna-Caracoli,22.248,Ciminna,Caracoli,0.144088,2,1,3,220
+way/338902384,Ciminna-Caracoli,22.248,Ciminna,Caracoli,0.102841,3,1,3,220
+way/338902386,Ciminna-Partinico,22.250,Ciminna,Partinico,0.149746,4,1,3,220
+way/338947390,,,,,0.046704,2,1,3,220
+way/338947391,,,,,0.04458,2,1,3,220
+way/338947392,,22.226;22.227,,,1.81126,7,2,6,220
+way/338947393,,22.227,,,0.053786,3,1,3,220
+way/338969602,,22.205,,,0.144244,2,1,3,220
+way/338969611,,22.204,,,0.14468,2,1,3,220
+way/338969613,,,,,0.038861,2,1,3,220
+way/338970631,,,,,0.060654,3,1,3,220
+way/338970634,,,,,0.058173,2,1,3,220
+way/338970635,,22.214,,,0.134964,2,1,3,220
+way/338972186,,,,,0.025807,2,1,3,220
+way/338972188,,,,,0.026773,2,1,3,220
+way/375907989,,22.239;22.252,,,44.67507,86,2,6,220
+way/375907990,Ciminna-Partinico,22.250,Ciminna,Partinico,0.124319,2,1,3,220
+way/375907991,,22.223,,,0.156968,2,1,3,220
+way/375907992,,22.222,,,0.150104,2,1,3,220
+way/375907993,Favara-Partanna,22.239,Favara,Partanna,0.126182,2,1,3,220
+way/375907994,Favara-Partanna,22.239,Favara,Partanna,0.59332,2,1,3,220
+way/375907995,Partanna-Sambuca,22.242,Partanna,Sambuca,0.130083,2,1,3,220
+way/375908001,Sambuca-Partanna,22.242,Sambuca,Partanna,0.592321,5,1,3,220
+way/375908003,Sambuca-Cattolica Eraclea,22.252,Sambuca,Cattolica Eraclea,0.556399,5,1,3,220
+way/375908004,Partanna-Partinico,22.224,Partanna,Partinico,0.096659,2,1,3,220
+way/375908005,Partanna-Partinico,22.224,Partanna,Partinico,0.130122,2,1,3,220
+way/375908006,Partanna-Partinico,22.225,Partanna,Partinico,0.131365,2,1,3,220
+way/375908007,Fulgatore-Partanna,22.236,Fulgatore,Partanna,20.819746,46,1,3,220
+way/375916002,Priolo-Chiaramonte Gulfi,21.337,Priolo,Chiaramonte Gulfi,60.623535,139,1,3,380
+way/375916023,,22.239;22.240,,,17.249722,35,2,6,220
+way/375916024,Favara-Partanna,22.239,Favara,Partanna,0.05351,2,1,3,220
+way/375916025,,22.240;22.252,,,0.199462,3,2,6,220
+way/375916026,Favara-Cattolica Eraclea,22.240,Favara,Cattolica Eraclea,0.101712,2,1,3,220
+way/375916028,Chiaramonte Gulfi-Ragusa/1,22.243,Chiaramonte Gulfi,Ragusa/1,0.106341,3,1,3,220
+way/375916029,Chiaramonte Gulfi-Ragusa/1,22.243,Chiaramonte Gulfi,Ragusa/1,0.031788,2,1,3,220
+way/375916030,Chiaramonte Gulfi-Ragusa/2,22.244,Chiaramonte Gulfi,Ragusa/2,0.100819,2,1,3,220
+way/375916032,Chiaramonte Gulfi-Favara,22.246,Chiaramonte Gulfi,Favara,0.058115,2,1,3,220
+way/375916033,Chiaramonte Gulfi-Favara,22.246,Chiaramonte Gulfi,Favara,0.069616,2,1,3,220
+way/375916034,Sambuca-Cattolica Eraclea,22.252,Sambuca,Cattolica Eraclea,0.095874,2,1,3,220
+way/375922072,Misterbianco-Melilli/1-2,22.215;22.216,Misterbianco,2,48.101323,114,2,6,220
+way/375922073,Misterbianco-Melilli/2,22.216,Misterbianco,Melilli/2,0.126876,2,1,3,220
+way/375922074,Melilli-Ragusa/1-2,22.217;22.218,Melilli,2,52.305457,120,2,6,220
+way/375924499,Bellolampo-Partinico,22.223,Bellolampo,Partinico,0.100859,2,1,3,220
+way/375924500,Ciminna-Partinico,22.251,Ciminna,Partinico,0.098252,3,1,3,220
+way/375924523,,22.204,,,0.432265,3,1,3,220
+way/375924524,,22.205,,,0.420276,3,1,3,220
+way/375924525,Sorgente-Misterbianco,22.207,Sorgente,Misterbianco,0.083064,2,1,3,220
+way/375924526,Sorgente-Misterbianco,22.207,Sorgente,Misterbianco,0.112296,2,1,3,220
+way/375924527,Sorgente-Misterbianco,22.208,Sorgente,Misterbianco,0.11165,2,1,3,220
+way/375924529,Bellolampo-Caracoli,22.211,Bellolampo,Caracoli,0.147075,2,1,3,220
+way/375924530,Bellolampo-Caracoli,22.211,Bellolampo,Caracoli,0.030731,2,1,3,220
+way/375924531,,22.213,,,0.047242,2,1,3,220
+way/375924532,,22.213,,,0.135663,2,1,3,220
+way/375924533,,22.214,,,0.042428,2,1,3,220
+way/375924534,Termini Imerese Centrale-Caracoli,22.227,Termini Imerese Centrale,Caracoli,0.162326,3,1,3,220
+way/375924535,Sorgente-Corriolo,22.231,Sorgente,Corriolo,0.020572,2,1,3,220
+way/375924536,Ciminna-Caracoli,22.249,Ciminna,Caracoli,0.143641,2,1,3,220
+way/375924537,Ciminna-Caracoli,22.249,Ciminna,Caracoli,0.106241,3,1,3,220
+way/375924538,Elettrodotto Sorgente - Paradiso,21.326,Elettrodotto Sorgente,Paradiso,27.273603,60,1,3,380
+way/375924539,Elettrodotto Sorgente - Paternò,21.338,Elettrodotto Sorgente,Paternò,97.969592,208,1,3,380
+way/375924540,Sorgente - Duferdofin,22.247,Sorgente,Duferdofin,2.727519,9,1,3,220
+way/375924541,Sorgente-Caracoli,22.210,Sorgente,Caracoli,0.109369,2,1,3,220
+way/456822447,Sorgente-Villafranca-Scilla-Rizziconi,21.326,Sorgente,Rizziconi,19.97217,42,2,6,380
+way/977381106,Sorgente-Villafranca-Scilla-Rizziconi,21.326,Sorgente,Rizziconi,0.126801,2,1,3,380
+way/977381107,Sorgente-Villafranca-Scilla-Rizziconi,21.326,Sorgente,Rizziconi,0.118107,2,1,3,380
+way/977933970,Priolo-PC Isab,21.340,Priolo,PC Isab,0.043421,2,1,3,380
+way/977933971,Priolo-PC Isab,21.340,Priolo,PC Isab,0.086832,2,1,3,380
+way/1062841515,,,,,0.039342,2,1,3,220
+way/1063306065,Sorgente-Misterbianco,22.208,Sorgente,Misterbianco,0.079463,2,1,3,220
+way/1097982501,,,,,4.342833,12,1,3,380
+way/1097982503,,,,,2.826313,8,1,3,380
+way/1117128897,Paternò-Pantano-Priolo,,Paternò,Priolo,17.892092,52,1,3,380
+way/1155116740,Fulgatore-Partanna,22.236,Fulgatore,Partanna,0.302981,3,1,3,220
+way/1155116741,Fulgatore-Partanna,22.236,Fulgatore,Partanna,0.220601,3,1,3,220
+way/1155116742,,,,,0.092057,2,1,,220
+way/1155116743,Fulgatore-Partanna,22.236,Fulgatore,Partanna,9.338064,23,1,3,220
+way/1155116747,,,,,0.024042,2,1,,220
+way/1185328382,Paternò-Chiaramonte Gulfi,21.339,Paternò,Chiaramonte Gulfi,14.987677,32,1,3,380
+way/1462695445,Paternò-Pantano-Priolo,,Paternò,Priolo,26.235236,69,1,3,380
